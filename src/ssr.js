@@ -18,6 +18,7 @@ const DEFAULT_EVENTS = [
   'slideChange',
   'slideChangeTransitionStart',
   'slideChangeTransitionEnd',
+  'slideResetTransitionEnd',
   'slideNextTransitionStart',
   'slideNextTransitionEnd',
   'slidePrevTransitionStart',
